@@ -6,4 +6,4 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "webapp-production"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "a4c8c93c-0ab5-4150-9663-299d77636933"
