@@ -17,7 +17,7 @@
 
 - **開発環境**: https://3000-ilw8e35d9sf74wv8mzurp-cc2fbc16.sandbox.novita.ai
 - **本番環境**: デプロイ後に追加
-- **GitHub**: デプロイ後に追加
+- **GitHub**: https://github.com/garyohosu/chatServer
 
 ## 🏗️ 技術スタック
 
